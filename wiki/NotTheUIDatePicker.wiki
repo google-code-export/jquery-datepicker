@@ -1,3 +1,4 @@
+#summary Explaining that this project is NOT the jQuery UI datepicker
 = This googlecode project is not for the jQuery UI datepicker =
 
 The datepicker described on these pages is one created by me (Kelvin Luck) before the jQuery UI project (or datepicker) existed. It is a completely different piece of code with it's own strengths and weaknesses as compared to the UI datepicker. 
